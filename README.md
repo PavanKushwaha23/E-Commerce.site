@@ -54,10 +54,7 @@ Legacy, cluttered layouts or missing filters create friction and lost sales. The
 
 ---
 
-## 🖼️ UI Preview
-> Add GIFs or screenshots here to highlight the grid, filter sidebar, and mobile view.
 
----
 
 ## 📱 Responsiveness
 Built mobile‑first and tested on:
