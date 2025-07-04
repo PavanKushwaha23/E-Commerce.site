@@ -19,6 +19,9 @@ Shoppers abandon sites when they can’t quickly locate what they want.
 Legacy, cluttered layouts or missing filters create friction and lost sales. The solution? A **fast, filterable product grid** that makes discovery effortless.
 
 ---
+![Screenshot 2025-07-05 001530](https://github.com/user-attachments/assets/bb2bf70d-f64b-4746-b5c4-e31795082f4d)
+
+
 
 ## 🎯 Objectives
 - Display products as attractive, uniform **cards** with image, price, rating, and quick‑view CTA.
